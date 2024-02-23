@@ -1,7 +1,7 @@
 <h1>A palavra é um palíndromo?</h1>
 
 <h2> :+1: Sobre</h2>
-<p>- Programa que verifica se a palavra inserida é um palíndromo ou não<br>
+<p>- Função que verifica se a palavra inserida é um palíndromo ou não<br>
 - 2024</p>
 
 ## :nail_care: Tecnologias
